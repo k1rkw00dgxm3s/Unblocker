@@ -1,5 +1,7 @@
 # Unblocker
 Unblocker is a web based proxy built for bypassing digital censorship
+![Alt text](path/to/image.png)
+
 # Run Locally
 To run locally, run these commands:
 ```bash
