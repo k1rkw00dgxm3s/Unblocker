@@ -2,19 +2,19 @@
 Unblocker is a web based proxy built for bypassing digital censorship
 # Run Locally
 To run locally, run these commands:
-''bash
+```bash
 npm install
 ''
-''bash
+```bash
 npm run build
 ''
-''bash
+```bash
 npm run dev
 ''
-''bash
+```bash
 npm start
 ''
 or
-''bash
+```bash
 npx serve
 ''
